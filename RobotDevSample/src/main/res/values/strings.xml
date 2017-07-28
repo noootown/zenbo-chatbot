@@ -1,0 +1,21 @@
+<resources>
+    <!-- App Name-->
+    <string name="app_name">Zenbo Dev Sample</string>
+
+
+    <!-- Toolbar resources -->
+    <string name="toolbar_title_mainclass_robotapi_title">RobotAPI</string>
+
+    <string name="toolbar_title_subclass_contacts_title">RobotAPI. contacts</string>
+    <string name="toolbar_title_subclass_motion_title">RobotAPI. motion</string>
+    <string name="toolbar_title_subclass_robot_title">RobotAPI. robot</string>
+    <string name="toolbar_title_subclass_utility_title">RobotAPI. utility</string>
+    <string name="toolbar_title_subclass_vision_title">RobotAPI. vision</string>
+    <string name="toolbar_title_subclass_wheel_title">RobotAPI. wheelLights</string>
+
+    <!-- RobotAPI listView adapter -->
+    <string-array name="subclasses_type">
+        <item>PTT Chatbot</item>
+    </string-array>
+
+</resources>
